@@ -159,7 +159,14 @@ No GPU, no network, no offline-trained weights. If SciPy is unavailable, the
 
 <div align="center">
 
-**Team Sonic** · Manipal Institute of Technology, Bangalore · Anvil P-04
+## Team
+
+Team Name: Sonic
+
+Team Members: Jahnavi Sri Sai Akveti, Nakshatra Vinoth, Harshitha Dussa
+
+ **Manipal Institute of Technology, Bangalore · Anvil P-04**
+
 
 *Two specialists, one gate, and an agent that tunes itself to whatever data it is given.*
 
